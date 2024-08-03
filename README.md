@@ -1,7 +1,7 @@
 # Unveiling the Correlation: Does Having Many Healthcare Providers Really Extend Life Expectancy?
 
 ## The complete analysis and all related work are documented in the following files:
-  - [Analysis of Correlation between Life Expectancy vs Medical Professional Density.ipynb](https://raw.githubusercontent.com/DungTran-FI/Analysis-of-Correlation-between-Life-Expectancy-vs-Medical-Professional-Density/main/Analysis%20of%20Correlation%20between%20Life%20Expectancy%20vs%20Medical%20Professional%20Density.ipynb)
+  - [Analysis of Correlation between Life Expectancy vs Medical Professional Density.ipynb](https://github.com/DungTran-FI/Analysis-of-Correlation-between-Life-Expectancy-vs-Medical-Professional-Density/blob/main/Analysis%20of%20Correlation%20between%20Life%20Expectancy%20vs%20Medical%20Professional%20Density.ipynb)
   - [Presentation - Life Expectancy vs Medical Professional Density.pptx]([path/to/Presentation_-_Life_Expectancy_vs_Medical_Professional_Density.pptx](https://github.com/DungTran-FI/Analysis-of-Correlation-between-Life-Expectancy-vs-Medical-Professional-Density/blob/main/Presentation%20-%20Life%20Expectancy%20vs%20Medical%20Professional%20Density.pptx))
 
 ## <u>1. Introduction</u>
